@@ -1,2 +1,10 @@
-Hello
-This is my website have a lot fun
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Meine Webseite</title>
+</head>
+<body>
+    <h1>Hi This is my Wbseit</h1>
+</body>
+</html>
